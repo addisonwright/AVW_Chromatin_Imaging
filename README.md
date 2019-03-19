@@ -1,2 +1,2 @@
 # ChromatinImagingV2
-Volatile Development of Chromatin Imaging
+This was initially forked from Bogdan and then Addison develloped on top of it.
